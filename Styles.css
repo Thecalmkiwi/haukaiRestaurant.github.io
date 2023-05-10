@@ -11,7 +11,7 @@
   
 body{
     font-family: 'Arial';  
-    border: 10px solid rgb(184, 184, 219);
+    border: 10px saddlebrown;
   }
   
   /* margin around the wbesite */
@@ -24,7 +24,7 @@ body{
   
 header{
     width: 100%;
-    height: 100px;
+    height: 120px;
     background-color:rgb(8, 146, 238);
     
 }
@@ -33,7 +33,7 @@ header{
     width: 30%;
     float: left;
     text-align: left;
-    line-height: 100px;
+    height: 30%;
 }
 .logo a{
     text-decoration: none;
@@ -94,8 +94,11 @@ nav a:hover{
     justify-content: center;
     display:grid;
     padding-bottom: 20x;
-    background-color:rgb(8, 146, 238);
-    
+    width: 100%;
+}
+
+.photoHome img{
+    width:100%;
 }
 
 .customer-reviews{
