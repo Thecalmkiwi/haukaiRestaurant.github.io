@@ -43,7 +43,7 @@ header{
 }
   nav{
     float:right ;
-    line-height: 100px;
+    
 }
 nav a{
     text-decoration: none;
@@ -63,6 +63,7 @@ nav a:hover{
 .banner-area{
     background-color:rgb(8, 146, 238);
     width: 100%;
+    height: auto;
 }
   
 .banner-area h2{
