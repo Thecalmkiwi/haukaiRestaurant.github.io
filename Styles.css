@@ -35,6 +35,17 @@ header{
     text-align: left;
     height: 30%;
 }
+
+@media only screen and (max-width: 400px) {
+    .logo{
+        padding-top: 10%;
+        float: left;
+
+    }
+
+}
+    
+
 .logo a{
     text-decoration: none;
     font-size:30px;
@@ -51,8 +62,20 @@ nav a{
     font-size: 30px;
     color: rgb(8, 0, 0) ;
     padding: 5px;
-    margin: 0 1px
+    margin: 0 1px;
   
+}
+
+@media only screen and (max-width: 400px){
+    nav a{
+    text-decoration: none;
+    font-family: "poppins";
+    font-size: 15px;
+    color: rgb(8, 0, 0) ;
+    padding: 5px;
+    margin: 0 1px;
+  
+    }
 }
 nav a:hover{
     background-color: rgb(14, 14, 14);
@@ -121,9 +144,19 @@ nav a:hover{
 
 .c2{
     width:49%;
-    float:right;
+    float: right;
     border: solid blue;
     margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 400px) {
+    .c1{
+        width:100%;
+    }
+    .c2{
+        width: 100%;
+    }
+
 }
 
 .nav2{
