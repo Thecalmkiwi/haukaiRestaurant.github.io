@@ -1,4 +1,14 @@
 /* for the font of all text */
+@media only screen and (max-width: 400px) {
+    h1 {
+      font-size:2em;
+    }
+    img {
+      width:100%;
+    }
+    
+  }
+  
 body{
     font-family: 'Arial';  
     border: 10px solid rgb(184, 184, 219);
