@@ -55,11 +55,22 @@ nav a:hover{
   
 .banner-area h2{
     padding-top: 2%;
-    font-size: 70px;
+    font-size: 5em;
     color:rgb(1, 21, 9);
     text-align:center ;
     padding-bottom: 6%;
     
+}
+h3{
+    font-size: 2em;
+}
+
+h2{
+    font-size: 3em;
+}
+
+p{
+    font-size: 2em;
 }
 
 .main-content-area{
@@ -76,6 +87,12 @@ nav a:hover{
     font-size: 2em;
     text-align: center;
     
+}
+
+@media screen and (max-width: 400){
+    .main-content-area h2{
+        font-size: 1px;
+    }
 }
 
 .content-area {
@@ -100,8 +117,7 @@ margin:0;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    
-    
+    font-size: medium;   
     
 }
 
@@ -110,6 +126,7 @@ margin:0;
     border: solid blue;
     background-color: bisque;
     margin: 10px;
+    font-size: 2em;
 }
 
 .c2{
@@ -117,16 +134,7 @@ margin:0;
     border: solid blue;
     background-color: antiquewhite;
     margin: 10px;
-}
-
-@media only screen and (max-width: 400px) {
-    .c1{
-        width:100%;
-    }
-    .c2{
-        width: 100%;
-    }
-
+    font-size:2em;
 }
 
 .nav2{
@@ -182,4 +190,7 @@ body table{
 }
 
 
-
+.foodimg {
+    justify-content: center;
+    
+}
