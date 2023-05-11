@@ -35,8 +35,8 @@ nav a{
     font-family: "poppins";
     font-size: 2em;
     color: rgb(8, 0, 0) ;
-    padding: 2;
-    margin: 0;
+    padding: 3;
+    margin: 1;
   
 }
 
@@ -76,17 +76,18 @@ p{
 .main-content-area{
     width: 100%;
     min-height: 50em;
-    background-size: cover;
+    background-size:cover;
     padding-bottom: 0%;
-    background-image: url('homePhoto.jpg');
+    background-image: url('restaurant1.jpg');
     line-height: 800px;
     
 }  
 
 .main-content-area h2{
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
-    
+    font-weight:bolder;
+    color:blue;
 }
 
 @media screen and (max-width: 400){
