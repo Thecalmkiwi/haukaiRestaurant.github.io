@@ -28,16 +28,18 @@ header{
 nav{
 float:right ;
 text-align: center;
+
     
 }
 nav a{
     text-decoration: none;
     font-family: "poppins";
-    font-size: 2em;
+    font-size: 1.8em;
     color: rgb(8, 0, 0) ;
-    padding: 2;
-    margin: 1;
-    border: solid black;
+    padding-top: 10;
+    margin-top: 50;
+    background-color: rgb(242, 247, 247);
+    
     
   
 }
@@ -165,6 +167,10 @@ margin:0;
     padding: 10px;
 }
 
+footer p{
+    font-size: 1em;
+}
+
 body{
     text-align: center;
     
@@ -196,4 +202,115 @@ body table{
 .foodimg {
     justify-content: center;
     
+}
+
+.all-drinks{
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-position: inside;
+    max-width:100%;
+    justify-content: center;
+    margin-top:0;
+    padding-top:0
+    
+
+}
+.all-drinks h2{
+    font-size: 5px;
+}
+.drinks-area1 li{
+    border: solid black;
+    font-size: 1em;
+    margin: 0%;
+}
+
+.drinks-area1{
+    margin:0;
+    padding:0;
+    margin-left: 5px;
+}
+
+.drinks-area2 li{
+    border: solid black;
+    font-size: 1em;
+}
+
+.drinks-area2{
+    margin:0;
+    padding:0;
+    
+}
+
+.drinks-area3 li{
+    border: solid black;
+    font-size: 1em;
+}
+.drinks-area3{
+    margin:0;
+    padding:0;
+    
+}
+
+.drinks-area4 li{
+    border: solid black;
+    font-size: 1em;
+}
+
+.drinks-area4{
+    margin:0;
+    padding:0;
+    margin-left: 5px;
+}
+
+.price1 li{
+    border: solid black;
+    font-size: 1em;
+    margin-left: 0%;
+    padding: 0;
+}
+
+.price1 {
+    margin:0;
+    padding:0;
+}
+
+.price2 li{
+    border: solid black;
+    font-size: 1em;
+    padding: 0;
+    
+}
+
+.price2 {
+    margin:0;
+    padding:0;
+}
+
+.price3 li{
+    border: solid black;
+    font-size: 1em;
+    padding: 0;
+    
+}
+
+.price3 {
+    margin:0;
+    padding:0;
+}
+.price4 li{
+    border: solid black;
+    font-size: 1em;
+    padding: 0;
+    
+}
+
+.price4 {
+    margin:0;
+    padding:0;
+}
+
+.t1{
+    font-size: 25px;
 }
