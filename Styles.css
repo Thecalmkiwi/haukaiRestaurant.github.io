@@ -370,9 +370,10 @@ body table{
 @media only screen and (max-width: 600px){
     .price2 li{
     border: solid black;
-    font-size: 0.8em;
+    font-size: 0.9em;
     margin: 0%;
     padding: 0;
+    background-color: aqua;
         
     }
     
