@@ -217,29 +217,28 @@ body table{
     
 
 }
-.all-drinks h2{
-    font-size: 5px;
-}
+
 .drinks-area1 li{
     border: solid black;
-    font-size: 1em;
+    font-size: 2em;
     margin: 0%;
 }
 
 .drinks-area1{
     margin:0;
     padding:0;
-    margin-left: 5px;
+    width:80%
 }
 
 .drinks-area2 li{
     border: solid black;
-    font-size: 1em;
+    font-size: 2em;
 }
 
 .drinks-area2{
     margin:0;
     padding:0;
+    width:80%
     
 }
 
@@ -250,6 +249,7 @@ body table{
 .drinks-area3{
     margin:0;
     padding:0;
+    width: 40%
     
 }
 
@@ -262,11 +262,12 @@ body table{
     margin:0;
     padding:0;
     margin-left: 5px;
+    width:30%
 }
 
 .price1 li{
     border: solid black;
-    font-size: 1em;
+    font-size: 2em;
     margin-left: 0%;
     padding: 0;
 }
@@ -274,18 +275,19 @@ body table{
 .price1 {
     margin:0;
     padding:0;
+    width:20%
 }
 
 .price2 li{
     border: solid black;
-    font-size: 1em;
+    font-size: 2em;
     padding: 0;
-    
 }
 
 .price2 {
     margin:0;
     padding:0;
+    width: 20%
 }
 
 .price3 li{
@@ -312,5 +314,7 @@ body table{
 }
 
 .t1{
-    font-size: 20px;
+    font-size: 2em;
 }
+
+
