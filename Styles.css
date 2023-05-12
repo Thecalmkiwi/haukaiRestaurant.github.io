@@ -210,17 +210,17 @@ body table{
     flex-direction: row;
     flex-wrap: wrap;
     list-style-position: inside;
-    max-width:90%;
+    max-width:100;
     justify-content: center;
-    margin-top:0;
-    padding-top:0
+    margin:0;
+    padding:0;
     
 
 }
 
 .drinks-area1 li{
     border: solid black;
-    font-size: 2em;
+    font-size: 1.1em;
     margin: 0%;
 }
 
@@ -232,7 +232,7 @@ body table{
 
 .drinks-area2 li{
     border: solid black;
-    font-size: 2em;
+    font-size: 1.1em;
 }
 
 .drinks-area2{
@@ -267,8 +267,8 @@ body table{
 
 .price1 li{
     border: solid black;
-    font-size: 2em;
-    margin-left: 0%;
+    font-size: 1.1em;
+    margin: 0%;
     padding: 0;
 }
 
@@ -280,7 +280,7 @@ body table{
 
 .price2 li{
     border: solid black;
-    font-size: 2em;
+    font-size: 1.09em;
     padding: 0;
 }
 
@@ -314,7 +314,7 @@ body table{
 }
 
 .t1{
-    font-size: 2em;
+    font-size: 1.2em;
 }
 
 
