@@ -227,7 +227,16 @@ body table{
 .drinks-area1{
     margin:0;
     padding:0;
-    width:80%
+    width:50%
+}
+
+@media only screen and (max-width: 600px){
+    .drinks-area1{
+        margin:0;
+        padding:0;
+        width:80%
+    }
+    
 }
 
 .drinks-area2 li{
@@ -238,7 +247,16 @@ body table{
 .drinks-area2{
     margin:0;
     padding:0;
-    width:80%
+    width: 50%
+    
+}
+
+@media only screen and (max-width: 600px){
+    .drinks-area2{
+        margin:0;
+        padding:0;
+        width:80%
+    }
     
 }
 
@@ -249,9 +267,10 @@ body table{
 .drinks-area3{
     margin:0;
     padding:0;
-    width: 40%
+    width: 35%
     
 }
+
 
 .drinks-area4 li{
     border: solid black;
@@ -271,6 +290,7 @@ body table{
     margin: 0%;
     padding: 0;
 }
+
 
 .price1 {
     margin:0;
