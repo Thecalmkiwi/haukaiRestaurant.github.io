@@ -235,7 +235,7 @@ body table{
 .drinks-area1{
     margin:0;
     padding:0;
-    width:50%
+    width:30%
 }
 
 @media only screen and (max-width: 600px){
@@ -266,7 +266,7 @@ body table{
 .drinks-area2{
     margin:0;
     padding:0;
-    width: 50%
+    width: 30%
     
 }
 
@@ -294,8 +294,17 @@ body table{
 .drinks-area3{
     margin:0;
     padding:0;
-    width: 35%
+    width: 20%
     
+}
+
+@media only screen and (max-width: 600pX) {
+    .drinks-area3{
+        margin:0;
+        padding:0;
+        margin-left: 5px;
+        width:80%;
+    }
 }
 
 
@@ -317,7 +326,16 @@ body table{
     margin:0;
     padding:0;
     margin-left: 5px;
-    width:30%
+    width:20%
+}
+
+@media only screen and (max-width: 600pX) {
+    .drinks-area4{
+        margin:0;
+        padding:0;
+        margin-left: 5px;
+        width:80%;
+    }
 }
 
 .price1 li{
@@ -340,7 +358,7 @@ body table{
 .price1 {
     margin:0;
     padding:0;
-    width:19%
+    width:12%
 }
 
 .price2 li{
@@ -352,7 +370,7 @@ body table{
 @media only screen and (max-width: 600px){
     .price2 li{
     border: solid black;
-    font-size: 0.9em;
+    font-size: 0.8em;
     margin: 0%;
     padding: 0;
         
@@ -363,7 +381,7 @@ body table{
 .price2 {
     margin:0;
     padding:0;
-    width: 19%
+    width: 12%
 }
 
 .price3 li{
@@ -377,7 +395,6 @@ body table{
     .price3 li{
     border: solid black;
     font-size: 0.9em;
-    margin: 0%;
     padding: 0;
         
     }
@@ -387,6 +404,15 @@ body table{
 .price3 {
     margin:0;
     padding:0;
+}
+
+@media only screen and (max-width: 600px){
+    .price3{
+    margin: 0%;
+    padding: 0;
+    width: 15%  
+    }
+    
 }
 .price4 li{
     border: solid black;
@@ -410,6 +436,16 @@ body table{
 .price4 {
     margin:0;
     padding:0;
+}
+
+@media only screen and (max-width: 600px){
+    .price4 {
+    margin: 0%;
+    padding: 0;
+    width: 15%;
+        
+    }
+    
 }
 
 .t1{
