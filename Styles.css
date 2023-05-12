@@ -210,7 +210,7 @@ body table{
     flex-direction: row;
     flex-wrap: wrap;
     list-style-position: inside;
-    max-width:100%;
+    max-width:90%;
     justify-content: center;
     margin-top:0;
     padding-top:0
