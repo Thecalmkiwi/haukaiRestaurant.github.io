@@ -361,6 +361,14 @@ body table{
     width:12%
 }
 
+@media only screen and (max-width: 600px){
+    .price1 {
+        margin:0;
+        padding:0;
+        width:20
+    }  
+}
+
 .price2 li{
     border: solid black;
     font-size: 1.09em;
@@ -373,8 +381,7 @@ body table{
     font-size: 0.8em;
     margin: 0%;
     padding: 0;
-    background-color: aqua;
-    
+    background-color: rgb(255, 0, 89);
         
     }
     
@@ -384,6 +391,14 @@ body table{
     margin:0;
     padding:0;
     width: 12%
+}
+
+@media only screen and (max-width: 600px){
+    .price2 {
+        margin:0;
+        padding:0;
+        width:20
+    }  
 }
 
 .price3 li{
