@@ -283,6 +283,14 @@ body table{
     border: solid black;
     font-size: 1em;
 }
+
+@media only screen and (max-width: 600px){
+    .drinks-area3 li{
+    border: solid black;
+    font-size: 0.9em;
+    }
+    
+}
 .drinks-area3{
     margin:0;
     padding:0;
@@ -295,6 +303,15 @@ body table{
     border: solid black;
     font-size: 1em;
 }
+
+@media only screen and (max-width: 600px){
+    .drinks-area4 li{
+    border: solid black;
+    font-size: 0.9em;
+    }
+    
+}
+
 
 .drinks-area4{
     margin:0;
@@ -356,6 +373,17 @@ body table{
     
 }
 
+@media only screen and (max-width: 600px){
+    .price3 li{
+    border: solid black;
+    font-size: 0.9em;
+    margin: 0%;
+    padding: 0;
+        
+    }
+    
+}
+
 .price3 {
     margin:0;
     padding:0;
@@ -365,6 +393,17 @@ body table{
     font-size: 1em;
     padding: 0;
     
+    
+}
+
+@media only screen and (max-width: 600px){
+    .price4 li{
+    border: solid black;
+    font-size: 0.9em;
+    margin: 0%;
+    padding: 0;
+        
+    }
     
 }
 
