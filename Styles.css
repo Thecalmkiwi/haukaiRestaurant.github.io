@@ -235,7 +235,7 @@ body table{
 .drinks-area1{
     margin:0;
     padding:0;
-    width:30%
+    
 }
 
 @media only screen and (max-width: 600px){
@@ -266,7 +266,7 @@ body table{
 .drinks-area2{
     margin:0;
     padding:0;
-    width: 30%
+   
     
 }
 
@@ -294,7 +294,7 @@ body table{
 .drinks-area3{
     margin:0;
     padding:0;
-    width: 20%
+    
     
 }
 
@@ -326,7 +326,7 @@ body table{
     margin:0;
     padding:0;
     margin-left: 5px;
-    width:20%
+    
 }
 
 @media only screen and (max-width: 600pX) {
@@ -358,7 +358,7 @@ body table{
 .price1 {
     margin:0;
     padding:0;
-    width:12%
+    
 }
 
 @media only screen and (max-width: 600px){
@@ -381,7 +381,6 @@ body table{
     font-size: 0.9em;
     margin: 0%;
     padding: 0;
-    background-color: rgb(0, 255, 38);
         
     }
     
